@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "marco",
+      "number": "3889078655",
+      "id": "-f4MoyL"
+    },
+    {
+      "name": "mario",
+      "number": "3889067555",
+      "id": "x_FYvng"
+    },
+    {
+      "name": "massi",
+      "number": "3497488098",
+      "id": "9l0ilZO"
+    },
+    {
+      "name": "zeca",
+      "number": "3489055780",
+      "id": "3M7BiPf"
+    },
+    {
+      "name": "rocco",
+      "number": "3465322786",
+      "id": "mpO6Pdh"
+    },
+    {
+      "name": "gigigi",
+      "number": "3336788999",
+      "id": "eTFnmE1"
+    },
+    {
+      "name": "Test",
+      "number": "Gio",
+      "id": "TuQKhat"
+    }
+  ]
+}
